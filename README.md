@@ -1,7 +1,7 @@
 # A Demonstração do Futuro da Programação!
 
 ## 📒 Descrição
-Imagens sobre oque a IA pode mostrar sobre a Programação no FUTURO!
+Imagens da IA que mostram qual seria o Futuro da Programação!
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT
